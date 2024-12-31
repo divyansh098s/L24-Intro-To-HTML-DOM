@@ -25,9 +25,9 @@ msgBox.style.color = 'red';
 
 else {
 message = 'Login Successful!';
-msgBox.style.color = 'Green'
+msgBox.style.color = 'Green';
 }
 
-{
+
 msgBox.innerText= message;
 }
